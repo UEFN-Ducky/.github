@@ -2,7 +2,7 @@
 
 Official organization for the **UEFN Ducky** desktop app and Store plugins.
 
-**Site:** [uefnducky.org](https://uefnducky.org) · **App:** [UEFN-Ducky/UEFN-Ducky](https://github.com/UEFN-Ducky/UEFN-Ducky) · **Support:** [Patreon](https://www.patreon.com/uefnducky) · iliya@uefnducky.org
+**Site:** [uefnducky.org](https://uefnducky.org) · **App:** [UEFN-Ducky/UEFN-Ducky](https://github.com/UEFN-Ducky/UEFN-Ducky) · **Support:** [Patreon](https://www.patreon.com/UEFNDucky) · iliya@uefnducky.org
 
 > **Not affiliated with Epic Games.** "Unreal", "UEFN", "Verse", and "Fortnite" are trademarks of Epic Games, Inc.
 
