@@ -1,17 +1,21 @@
 # UEFN Ducky — organization profile
 
-This repository is **not** the app. It only holds the public org Overview
-for [github.com/UEFN-Ducky](https://github.com/UEFN-Ducky).
-
-The Overview copy lives in [`profile/README.md`](profile/README.md).
-The desktop app is [UEFN-Ducky/UEFN-Ducky](https://github.com/UEFN-Ducky/UEFN-Ducky).
+This repository is **not** the app. Org Overview: [github.com/UEFN-Ducky](https://github.com/UEFN-Ducky).
+App: [UEFN-Ducky/UEFN-Ducky](https://github.com/UEFN-Ducky/UEFN-Ducky).
 
 <div align="center">
 
-# This organization did not launch any token<br>and will not claim creator rewards on unofficial coins.
+# This organization did not launch any token
+# and will not claim creator rewards on unofficial coins.
 
 </div>
 
-> **Not affiliated with Epic Games.** "Unreal", "UEFN", "Verse", and "Fortnite" are trademarks of Epic Games, Inc.
+## Contributors are not founders
 
-> **No official cryptocurrency or token.** There is no official UEFN Ducky or DuckyOS coin. Tokens on pump.fun, bump.fun, or similar platforms that use our name, logo, GitHub, or contributor list are **unofficial** and are not created, operated, or endorsed by this organization. GitHub contributors are not founders. A merged pull request does not authorize anyone to represent UEFN Ducky or to claim “creator” fees. We do not receive those coins. Official support is Patreon and [uefnducky.org](https://uefnducky.org) — not crypto.
+The [Contributors graph](https://github.com/UEFN-Ducky/UEFN-Ducky/graphs/contributors) is only a commit list. It is **not** owners or people allowed to claim pump.fun / bump.fun fees.
+
+**AnasInno:** pull requests only. Not a founder. Not an officer. Any token or fee claim tied to that GitHub account is **unauthorized**.
+
+Same for Lezzy09 and bot co-authors (cursoragent, claude).
+
+> **No official cryptocurrency or token.** Coins on pump.fun, bump.fun, or similar that use our name, logo, GitHub, or contributor list are unofficial. Official support is Patreon and [uefnducky.org](https://uefnducky.org).
