@@ -14,8 +14,4 @@ App: [UEFN-Ducky/UEFN-Ducky](https://github.com/UEFN-Ducky/UEFN-Ducky).
 
 The [Contributors graph](https://github.com/UEFN-Ducky/UEFN-Ducky/graphs/contributors) is only a commit list. It is **not** owners or people allowed to claim pump.fun / bump.fun fees.
 
-**AnasInno:** pull requests only. Not a founder. Not an officer. Any token or fee claim tied to that GitHub account is **unauthorized**.
-
-Same for Lezzy09 and bot co-authors (cursoragent, claude).
-
 > **No official cryptocurrency or token.** Coins on pump.fun, bump.fun, or similar that use our name, logo, GitHub, or contributor list are unofficial. Official support is Patreon and [uefnducky.org](https://uefnducky.org).
